@@ -1,2 +1,2 @@
-# -Angular-TODO-List
+# Angular-TODO-List
 TODO List application using angular
